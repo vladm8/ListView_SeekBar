@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panel Konfiguracji</string>
+    <string name="select_option_prompt">Wybierz opcję z listy powyżej</string>
+    <string name="editing_prefix">Edytujesz: </string>
+    <string name="value_prefix">Wartość: </string>
+    <string name="initial_value_prompt">Wartość: --</string>
+</resources>
